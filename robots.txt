@@ -5,3 +5,4 @@ User-agent: *
 Disallow:
 
 this is to demostrate the usage of "git push" command
+this is to demostrate the usgae of "git pull" command - new
